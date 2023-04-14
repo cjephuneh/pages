@@ -6,3 +6,4 @@ from django.views.generic import TemplateView
 class HomePageView(TemplateView):
     templates_name = "home.html"
 
+rere
